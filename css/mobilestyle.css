@@ -1,0 +1,29 @@
+@media screen and (max-width: 639px) {
+
+   
+    nav ul li {
+        border-radius: 1em;
+        list-style-type: none; /*This removes bullet points*/
+        border-top: solid 0.2em black;
+        border-bottom: solid 0.2em black;
+        background-color: black;
+        max-width: 100%;
+        text-align: center;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+
+    }
+
+.tablet {
+        display:none;
+    }
+
+.desktop {
+         display:none;
+}
+
+main div .center {
+    text-align: center;
+}
+
+}
